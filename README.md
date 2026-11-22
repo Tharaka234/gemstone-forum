@@ -55,7 +55,7 @@ A PHP and MySQL web application developed for a **Web Development module**. Gems
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gemstone-forum.git
+git clone https://github.com/Tharaka234/gemstone-forum.git
 ```
 
 Move the cloned project folder into your Apache document root, for example:
